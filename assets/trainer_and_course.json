@@ -1,0 +1,41 @@
+{
+    "Trainers": [
+        {
+            "id": "T1",
+            "name": "Aadi",
+            "courses": [
+                {
+                    "id": "CS11",
+                    "name": "Computers",
+                    "hours": 10
+                },
+                {
+                    "id": "CS12",
+                    "name": "Electricals",
+                    "hours": 12
+                },
+                {
+                    "id": "CS13",
+                    "name": "Networking",
+                    "hours": 8
+                }
+            ]
+        },
+        {
+            "id": "T2",
+            "name": "Vyom",
+            "courses": [
+                {
+                    "id": "CS21",
+                    "name": "Electricals",
+                    "hours": 16
+                },
+                {
+                    "id": "CS22",
+                    "name": "Networking",
+                    "hours": 11
+                }
+            ]
+        }
+    ]
+}
